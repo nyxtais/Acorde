@@ -25,7 +25,7 @@ export default function Inicial() {
 
         <View style={styles.colContainer}>
           <Text style={styles.coluna}>
-          Acorde é uma crítica social para expor o impacto real do sistema sobre a sociedade e o meio ambiente. A proposta
+          Acorde é uma crítica social que expõe o impacto real do sistema sobre a sociedade e o meio ambiente. A proposta
           é simples: informar, conscientizar e provocar.  Os verdadeiros responsáveis precisam ser vistos, nomeados e responsabilizados.
           </Text>
         </View>
